@@ -1,0 +1,28 @@
+.wrap{
+    width: 100%;
+    height: 70px;
+    border-bottom: 3px solid black;
+}
+label{
+    margin-top: 20px;
+    font-family: Georgia, serif;
+    font-size: 25px;
+    color: #7c7676;
+    text-decoration: #494848;
+    margin-left: 30px;
+}
+input{
+    margin-top: 20px;
+    height: 20px;
+    border-radius: 5px;
+    font-family: Georgia, serif;
+    font-size: 20px;
+}
+button{
+    margin: 20px;
+    border-radius: 7px;
+    color: #7e7474;
+    background-color: #d9cece;
+    font-family: Georgia, serif;
+    font-size: 25px;
+}

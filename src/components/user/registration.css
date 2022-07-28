@@ -1,0 +1,11 @@
+.sign{
+    font-size: 40px;
+    font-family: Georgia, serif;
+    margin: 50px;
+}
+.enter{
+    border-radius: 20px;
+    border: 7px solid silver;
+    width: 500px;
+
+}
